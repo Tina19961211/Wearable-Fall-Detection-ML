@@ -111,5 +111,3 @@ Research focus:
 •	digital health analytics
 •	machine learning for clinical applications
 Her research explores how computational tools can improve rehabilitation outcomes and patient monitoring.
-
-<img width="468" height="605" alt="image" src="https://github.com/user-attachments/assets/4ad3ac0d-c32d-4b52-a65e-18b86d37c9c0" />
